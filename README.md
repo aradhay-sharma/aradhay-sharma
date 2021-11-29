@@ -1,7 +1,7 @@
 ### Hi there 👋 This is Aradhay Sharma
 
-📧 Email ID: <img src="{aradhyasharma2312@gmail.com}" />
-💼 LinkedIn: Linkedin Badge
+📧 Email ID: aradhyasharma2312@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/aradhay-sharma-291000202
 
 <!--
 **aradhay-sharma/aradhay-sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
