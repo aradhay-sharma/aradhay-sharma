@@ -1,4 +1,4 @@
-# Hi there 👋 This is Aradhay Sharma
+# Hi there 👋 <br/> This is Aradhay Sharma
 
 # DATA SCIENCE
 
